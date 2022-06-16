@@ -1,4 +1,4 @@
-conflict line
+conflict line update
 bad line
 commit test
 456
